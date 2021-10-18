@@ -2,8 +2,6 @@
 
 This is the first file in the repository
 
-## Ipsum Below
+## Website content
 
-this is just text doesn't matter what I type
-
-some more text being added
+Copied from google
